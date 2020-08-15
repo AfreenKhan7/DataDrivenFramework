@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/sikulix-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/Selenium Jars/testng-6.9.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://javadoc.jitpack.io/com/github/cbeust/testng/master/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/dependencies/Dependent Jars/ExtentReport_Jars/log4j-1.2.17-javadoc.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
